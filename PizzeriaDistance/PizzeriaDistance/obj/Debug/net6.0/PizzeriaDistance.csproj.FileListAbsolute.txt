@@ -1,0 +1,15 @@
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\bin\Debug\net6.0\PizzeriaDistance.exe
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\bin\Debug\net6.0\PizzeriaDistance.deps.json
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\bin\Debug\net6.0\PizzeriaDistance.runtimeconfig.json
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\bin\Debug\net6.0\PizzeriaDistance.dll
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\bin\Debug\net6.0\PizzeriaDistance.pdb
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\obj\Debug\net6.0\PizzeriaDistance.csproj.AssemblyReference.cache
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\obj\Debug\net6.0\PizzeriaDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\obj\Debug\net6.0\PizzeriaDistance.AssemblyInfoInputs.cache
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\obj\Debug\net6.0\PizzeriaDistance.AssemblyInfo.cs
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\obj\Debug\net6.0\PizzeriaDistance.csproj.CoreCompileInputs.cache
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\obj\Debug\net6.0\PizzeriaDistance.dll
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\obj\Debug\net6.0\refint\PizzeriaDistance.dll
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\obj\Debug\net6.0\PizzeriaDistance.pdb
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\obj\Debug\net6.0\PizzeriaDistance.genruntimeconfig.cache
+C:\Users\adamm\source\repos\PizzeriaDistance\PizzeriaDistance\obj\Debug\net6.0\ref\PizzeriaDistance.dll
